@@ -1,0 +1,9 @@
+g++ -o ex1 ex1.cpp -levent
+g++ -o ex2 ex2.cpp -levent
+g++ -o ex3 ex3.cpp -levent
+g++ -o ex4 ex4.cpp -levent
+g++ -o ex5 ex5.cpp -levent
+g++ -o ex6 ex6.cpp -levent
+g++ -o ex4-serv ex4-serv.cpp -levent
+g++ -o ex5-serv ex5-serv.cpp -levent
+g++ -o ex6-serv ex6-serv.cpp -levent
